@@ -13,7 +13,7 @@ The reduced_image.fit is computed using ccdproc,  an Astropy affiliated package 
 It provides the essential tools for processing of CCD images in a framework that provides error propagation and bad pixel 
 tracking throughout the reduction process. 
 
-Science FITS -> Dark Subtraction -> Flat Correction -> L.A.Cosmic -> reduced_image.fit
+Science FITS -> Dark Subtraction -> Flat Correction -> Hot Pix -> reduced_image.fit
 
                
 <img width="1487" height="610" alt="s1" src="https://github.com/user-attachments/assets/96e7e48b-6001-43e2-bca0-9138ef49185f" />
