@@ -2,7 +2,7 @@
 
 This script performs a basic CCD image reduction pipeline:
 Dark subtraction, Flat correction and hot pixels removal.
-It is designed for the SBIG ST-2000XM (KAI 2020M) camera at 
+It is configured for the SBIG ST-2000XM (KAI 2020M) camera at 
 Cúpula Pequeña, Observatorio Astronómico Nacional - UN.
 If you are using another detector, please change lines 108 to 115 according to your case. 
 
