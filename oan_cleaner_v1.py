@@ -1,6 +1,5 @@
 #######################################################
 # OAN_Cleaner.py                                      #
-# Limpieza  de imágenes obtenidas con SBIG ST-2000XM  #
 # Giovanni Pinzon gapinzone@unal.edu.co               #
 # Observatorio Astronómico Nacional - UN              #
 #######################################################
