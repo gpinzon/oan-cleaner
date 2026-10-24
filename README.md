@@ -1,4 +1,4 @@
-# OAN_Cleaner.py 
+# OAN_cleaner.py 
 
 This script performs a basic CCD image reduction pipeline:
 Dark subtraction, Flat correction and hot pixels removal.
