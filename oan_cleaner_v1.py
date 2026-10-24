@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 
 
 # ============================================================
-# 0. DELETE EXISTENTS MASTERFLAT AND MASTERDARK
+# 0. ENABLE OVERWRITING OF MASTERFLAT AND MASTERDARK
 # ============================================================
 for f in glob.glob('master*.fits') + glob.glob('bpm.fits'):
 
